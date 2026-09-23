@@ -29,16 +29,14 @@ Actualmente curso el sexto semestre de Ingeniería de Sistemas. Me gusta desarro
 🏗️ Arquitectura de software
 📂 Proyectos
 💻 Proyectos de desarrollo de software
-🅿️ Sistema de administración de parqueadero
 
+🅿️ Sistema de administración de parqueadero
 Sistema para registrar entradas y salidas, propietarios y calcular tarifas según el tipo de vehículo y tiempo de permanencia.
 
 🐾 Sistema de gestión veterinaria
-
 Sistema para registrar mascotas y propietarios, gestionar citas, registrar atenciones y consultar historiales médicos.
 
 🎓 Sistema de administración universitaria
-
 Sistema para gestionar materias, notas, horarios y reportes académicos.
 
 📧 Correo:miguelalejandrochamputiz25@gmail.com
