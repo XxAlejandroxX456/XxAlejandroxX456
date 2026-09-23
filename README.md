@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,100:9d4edd&height=200&section=header&text=Miguel%20Alejandro%20Champutiz%20Rodriguez&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas%20%7C%20Uniremington&descAlignY=62&descSize=18
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182038,100:2c56e8&height=200&section=header&text=Miguel%20Alejandro%20Champutiz%20Rodriguez&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20%7C%20Uniremington&descAlignY=62&descSize=18" width="100%">
 
 </div>
 
