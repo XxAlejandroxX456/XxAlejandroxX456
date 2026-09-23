@@ -22,11 +22,15 @@ Actualmente curso el sexto semestre de Ingeniería de Sistemas. Me gusta desarro
 ---
 
 🚀 Actualmente estoy trabajando en
+
 🌐 Desarrollo web
 🗄️ Bases de datos
 🏗️ Arquitectura de software
 📂 Proyectos
 💻 Proyectos de desarrollo de software
+
+
+💻 Mis proyectos Actualmente
 
 🅿️ Sistema de administración de parqueadero
 Sistema para registrar entradas y salidas, propietarios y calcular tarifas según el tipo de vehículo y tiempo de permanencia.
